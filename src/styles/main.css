@@ -1,0 +1,17 @@
+main {
+  flex: 1;
+}
+
+.cards-container {
+  background-color: antiquewhite;
+  height: 100%;
+  display: grid;
+  grid-template-columns: repeat(6, minmax(150px, 160px));
+  grid-row-gap: 20px;
+  grid-column-gap: 20px;
+  padding: 10px;
+  justify-content: center;
+  align-content: center;
+  justify-items: center;
+  align-items: center;
+}
