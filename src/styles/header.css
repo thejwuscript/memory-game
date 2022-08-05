@@ -1,0 +1,31 @@
+header {
+  background-color: lightgoldenrodyellow;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  height: 56px;
+}
+
+#logo-container {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+#scoreboard {
+  display: flex;
+  align-items: center;
+}
+
+.scoreboard-border {
+  box-sizing: border-box;
+  width: 1px;
+  height: 24px;
+  background-color: black;
+  margin: 0 10px;
+  
+}
+
+.score-container {
+  text-align: center;
+}
