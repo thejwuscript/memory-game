@@ -1,16 +1,16 @@
 import React from "react";
 
-function Scoreboard() {
+function Scoreboard({ score, bestScore }) {
   return (
     <div id="scoreboard">
       <div className="score-container current">
         Score
-        <br />1
+        <br />{score}
       </div>
-      <div className="scoreboard-border"></div>
+      <div className="scoreboard-divider"></div>
       <div className="score-container best">
         Best
-        <br />5
+        <br />{bestScore}
       </div>
     </div>
   );

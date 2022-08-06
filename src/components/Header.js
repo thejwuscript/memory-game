@@ -3,11 +3,11 @@ import Logo from './Logo';
 import '../styles/header.css';
 import Scoreboard from './Scoreboard'; 
 
-function Header() {
+function Header({ score, bestScore }) {
   return (
     <header>
       <Logo />
-      <Scoreboard />
+      <Scoreboard score={score} bestScore={bestScore} />
     </header>
   )
 }

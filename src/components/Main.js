@@ -3,10 +3,11 @@ import Card from './Card';
 import '../styles/main.css';
 import randomCharacters from '../Utilities/characters';
 
-function Main() {
+function Main({ onCardClick }) {
   const [characterList, setCharacterList] = useState(randomCharacters());
 
-  function handleClick() {
+  function handleClick(id, name) {
+    onCardClick(id, name);
     setCharacterList(randomCharacters());
   };
     
@@ -15,7 +16,7 @@ function Main() {
     <main>
       <div className="cards-container">
         {characterList.map(character => 
-          <Card key={character.id} name={character.name} image={character.image} handleClick={handleClick} /> 
+          <Card key={character.id} character={character} onClick={handleClick} /> 
         )}
       </div>
     </main>

@@ -10,7 +10,7 @@ import isabelle from '../images/isabelle.png';
 import kazuya from '../images/kazuya.png';
 import kirby from '../images/kirby.png';
 import link from '../images/link.png';
-import littleMac from '../images/link.png';
+import littleMac from '../images/little_mac.png';
 import lucina from '../images/lucina.png';
 import luigi from '../images/luigi.png';
 import mario from '../images/mario.png';
