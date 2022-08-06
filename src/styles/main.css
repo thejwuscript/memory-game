@@ -3,7 +3,7 @@ main {
 }
 
 .cards-container {
-  background-color: antiquewhite;
+  background-color: lightsteelblue;
   height: 100%;
   display: grid;
   grid-template-columns: repeat(6, minmax(150px, 160px));
