@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/memory-game/static/css/main.2b68c1b2.css",
+    "main.js": "/memory-game/static/js/main.956bb3af.js",
+    "static/media/bowser.png": "/memory-game/static/media/bowser.5d9ff85c24919bac31db.png",
+    "static/media/byleth.png": "/memory-game/static/media/byleth.73518fe48aac303ef132.png",
+    "static/media/donkey_kong.png": "/memory-game/static/media/donkey_kong.6219265b427d4724cc52.png",
+    "static/media/link.png": "/memory-game/static/media/link.f428e8627646624302e3.png",
+    "static/media/zelda.png": "/memory-game/static/media/zelda.7790d5e81041d5d21c89.png",
+    "static/media/ice_climbers.png": "/memory-game/static/media/ice_climbers.157e0a9e3cd2ccf995bf.png",
+    "static/media/ike.png": "/memory-game/static/media/ike.aa462472ce754bbe88c1.png",
+    "static/media/fox.png": "/memory-game/static/media/fox.7d1f5cf6f33a3865e99c.png",
+    "static/media/mario.png": "/memory-game/static/media/mario.8670e804733ca572c0b1.png",
+    "static/media/kazuya.png": "/memory-game/static/media/kazuya.86d204253cd8c0f190e2.png",
+    "static/media/luigi.png": "/memory-game/static/media/luigi.ead684a61612ee6beba3.png",
+    "static/media/villager.png": "/memory-game/static/media/villager.86f1e8e909d0a5cabf0c.png",
+    "static/media/lucina.png": "/memory-game/static/media/lucina.1ce5649e205fc18bb438.png",
+    "static/media/captain_falcon.png": "/memory-game/static/media/captain_falcon.b742a415fdc421e11b53.png",
+    "static/media/samus.png": "/memory-game/static/media/samus.36797687417f430c972f.png",
+    "static/media/isabelle.png": "/memory-game/static/media/isabelle.4537f00367b9ca0520d6.png",
+    "static/media/yoshi.png": "/memory-game/static/media/yoshi.3afd93f07b95f953e729.png",
+    "static/media/little_mac.png": "/memory-game/static/media/little_mac.dc268c0aece844ce72c2.png",
+    "static/media/ness.png": "/memory-game/static/media/ness.a010e029e4493d359b08.png",
+    "static/media/smash_ball.png": "/memory-game/static/media/smash_ball.f808b60bf20f676b6b4d.png",
+    "static/media/pikachu.png": "/memory-game/static/media/pikachu.32f50b263313548a9ef6.png",
+    "static/media/kirby.png": "/memory-game/static/media/kirby.a9faf0a3ee78a7d18e74.png",
+    "index.html": "/memory-game/index.html",
+    "main.2b68c1b2.css.map": "/memory-game/static/css/main.2b68c1b2.css.map",
+    "main.956bb3af.js.map": "/memory-game/static/js/main.956bb3af.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2b68c1b2.css",
+    "static/js/main.956bb3af.js"
+  ]
+}
